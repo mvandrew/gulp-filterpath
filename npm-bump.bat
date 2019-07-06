@@ -1,2 +1,2 @@
 @echo off
-npm version patch -m "Upgrade to %s"
+npm version patch -m "Upgrade version"
