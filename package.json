@@ -1,6 +1,6 @@
 {
   "name": "gulp-filterpath",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Corrects the relative path error for the Gulp watch task",
   "main": "index.js",
   "scripts": {
