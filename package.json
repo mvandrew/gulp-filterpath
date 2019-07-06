@@ -1,0 +1,31 @@
+{
+  "name": "gulp-filterpath",
+  "version": "1.0.0",
+  "description": "Corrects the relative path error for the Gulp watch task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [
+    "gulp",
+    "watch"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:mvandrew/gulp-filterpath.git"
+  },
+  "author": "Andrey Mishchenko <info@msav.ru>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
+  "dependencies": {
+    "path": "^0.12.7"
+  },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js"
+  ]
+}

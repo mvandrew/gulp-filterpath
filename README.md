@@ -1,2 +1,2 @@
 # gulp-filterpath
-Corrects a relative path error
+Corrects the relative path error for the Gulp watch task.
