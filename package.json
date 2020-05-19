@@ -4,11 +4,12 @@
   "description": "Corrects the relative path error for the Gulp watch task",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 0"
+    "test": "mocha"
   },
   "keywords": [
     "gulp",
-    "watch"
+    "watch",
+    "path"
   ],
   "repository": {
     "type": "git",
@@ -27,5 +28,12 @@
     "LICENSE",
     "README.md",
     "index.js"
-  ]
+  ],
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "assert": "^2.0.0",
+    "mocha": "^7.1.2"
+  }
 }
